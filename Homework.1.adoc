@@ -1,0 +1,56 @@
+= Homework 1
+Mayumi Morgan
+
+....
+::: {.cell}
+
+```{.r .cell-code}
+# Exercise 1: Warming up
+
+
+# Exercise 2: Import tidy data
+
+
+# Exercise 3: Tidy data properties
+
+
+# Exercise 4: Get to know the data
+
+
+# Exercise 5: Data structure
+
+
+# Exercise 6: Your turn
+
+
+# Exercise 7: Brainstorm
+....
+
+:::
+
+'''''
+
+== Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.
+
+== Running Code
+
+When you click the *Render* button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+[source,r,cell-code]
+----
+1 + 1
+----
+
+....
+[1] 2
+....
+
+You can add options to executable code like this
+
+....
+[1] 4
+....
+
+The `+echo: false+` option disables the printing of code (only output is displayed).
